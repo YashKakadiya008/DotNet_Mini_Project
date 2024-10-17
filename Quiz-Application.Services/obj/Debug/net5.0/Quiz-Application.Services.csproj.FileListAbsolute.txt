@@ -1,0 +1,16 @@
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\bin\Debug\net5.0\Quiz-Application.Services.deps.json
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\bin\Debug\net5.0\Quiz-Application.Services.runtimeconfig.json
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\bin\Debug\net5.0\Quiz-Application.Services.runtimeconfig.dev.json
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\bin\Debug\net5.0\Quiz-Application.Services.dll
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\bin\Debug\net5.0\Quiz-Application.Services.pdb
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\Quiz-Application.Services.csproj.AssemblyReference.cache
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\Quiz-Application.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\Quiz-Application.Services.AssemblyInfoInputs.cache
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\Quiz-Application.Services.AssemblyInfo.cs
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\Quiz-Application.Services.csproj.CoreCompileInputs.cache
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\Quiz-Application.Services.sourcelink.json
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\Quiz-Application.Services.dll
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\refint\Quiz-Application.Services.dll
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\Quiz-Application.Services.pdb
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\Quiz-Application.Services.genruntimeconfig.cache
+C:\Users\ventura\source\repos\Quiz-Application\Quiz-Application.Services\obj\Debug\net5.0\ref\Quiz-Application.Services.dll
